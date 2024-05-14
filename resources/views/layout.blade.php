@@ -156,7 +156,7 @@
                 </a>
             </li><!-- End Profile Page Nav -->
 
-            <li class="nav-heading">Suggestion System</li>
+            <li class="nav-heading">Suggestion Systems</li>
 
             <li class="nav-item">
                 <a class="nav-link collapsed" href="">
