@@ -221,7 +221,7 @@
                             <li>
                                 <a class="nav-link collapsed" href="{{ route('sales.index') }}">
                                     <i class="bi bi-list-check fs-6"></i>
-                                    <span>Data Form FPP</span>
+                                    <span>Data FPP</span>
                                 </a>
                             </li>
                             <li>
